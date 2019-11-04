@@ -8,4 +8,7 @@
 	<li class="nav-item">
 		<a href="gerenciar.php" class="nav-link">Gerenciar</a>
 	</li>
+	<li class="nav-item">
+		<a href="logout.php" class="nav-link">Sair</a>
+	</li>
 </ul>
